@@ -1,0 +1,85 @@
+{
+  "feedData": [
+    {
+      "userName": "Arvind Kumar",
+      "userId": 1,
+      "feed": "Kellton Tech Solutions Ltd. is an Indian information technology and outsourcing company headquartered in Hyderabad, India with offices in United States and Europe.The company reported net revenues of Rs. 7.39 billion with more than 1400 employees.",
+      "feedId": 1,
+      "imageName": "",
+      "type": "text",
+      
+    },
+    {
+      "userName": "Akhil Kumar",
+      "userId": 1,
+      "feed": "Gurgaon is a city just southwest of New Delhi in northern India. It’s known as a financial and technology hub. The Kingdom of Dreams is a large complex for theatrical shows. Sheetala Mata Mandir is an orange-and-white-striped Hindu temple. The Vintage Camera Museum showcases cameras and prints spanning a century. West of the city, Sultanpur National Park is home to hundreds of bird ",
+      "feedId": 2,
+      "imageName": "",
+      "type": "text",
+      
+    },
+    {
+      "userName": "Shivanshu Kumar",
+      "userId": 1,
+      "feed": "Uttar Pradesh is a state in northern India. With over 200 million inhabitants, it is the most populated state in India as well as the most populous country subdivision in the world. It was established in 1950 after India had become a republic.",
+      "feedId": 3,
+      "imageName": "1",
+      "type": "both",
+      
+    },
+    {
+      "userName": "Manish Kumari",
+      "userId": 1,
+      "feed": "Bihar is a state in East India, bordering Nepal. It is divided by the River Ganges, which floods its fertile plains. Important Buddhist pilgrimage sites include the Bodhi Tree in Bodhgaya's Mahabodhi Temple, under which the Buddha allegedly meditated. In the state capital Patna, Mahavir Mandir temple is revered by Hindus, while Sikhs worship at the domed, riverside Gurdwara of Takht Sri Harmandir Sahib Ji.",
+      "feedId": 4,
+      "imageName": "2",
+      "type": "both",
+      
+    },
+    {
+      "userName": "Akshanksha Kumari",
+      "userId": 1,
+      "feed": "Chhattisgarh is a heavily forested state in central India known for its temples and waterfalls. Near the capital Raipur, the town of Sirpur on the Mahanadi River is home to the red-brick Lakshmana (Laxman) Temple, decorated with carvings from Indian mythology. In the south, the city of Jagdalpur hosts the Sanjay Market on Sundays, a bartering place for local tribes. The huge Chitrakoot Falls lie to the northwest",
+      "feedId": 5,
+      "imageName": "3",
+      "type": "both",
+      
+    },
+    {
+      "userName": "Dayasagar",
+      "userId": 1,
+      "feed": "Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar.",
+      "feedId": 6,
+      "imageName": "",
+      "type": "text",
+      
+    },
+    {
+      "userName": "Vikash Kumar",
+      "userId": 1,
+      "feed": "",
+      "feedId": 7,
+      "imageName": "4",
+      "type": "image",
+      
+    },
+    {
+      "userName": "Shivam Kumar",
+      "userId": 1,
+      "feed": "Ghaziabad district is a city in the Indian state of Uttar Pradesh and a part of Delhi NCR. It is the administrative headquarters of Ghaziabad district and is the largest city in western Uttar Pradesh, with a population of 1,729,000",
+      "feedId": 8,
+      "imageName": "5",
+      "type": "both",
+      
+    },
+    {
+      "userName": "Shambhu Kumar",
+      "userId": 1,
+      "feed": "dshjgdfsnbsfdbmnfdsmnbfdsbmn",
+      "feedId": 8,
+      "imageName": "5",
+      "type": "both",
+      
+    }
+  ]
+}
